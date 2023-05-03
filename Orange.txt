@@ -1,0 +1,4 @@
+First line in orange file
+Second line in orange file
+UPPERCASE LINE IN ORANGE FILE
+lowercase line in orange file
