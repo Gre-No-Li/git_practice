@@ -1,0 +1,4 @@
+First line in apple file
+Second line in apple file
+UPPERCASE LINE IN APPLE FILE
+lowercase line in apple file
